@@ -1,0 +1,28 @@
+{
+  "name": "Your Name",
+  "subtitle": "Designer & Front-end Developer",
+  "location": "City • Available for contracts",
+  "avatar": "assets/avatar.svg",
+  "about": "<p>Hi — I'm a designer and front-end developer focused on crafting beautiful, accessible experiences. Replace this paragraph with your own bio.</p>",
+  "email": "hello@example.com",
+  "projects": [
+    {
+      "title": "Project One",
+      "description": "Short description of a project with technologies used.",
+      "link": "",
+      "linkText": ""
+    },
+    {
+      "title": "Project Two",
+      "description": "Short description of another project. Link to case study or repo.",
+      "link": "",
+      "linkText": ""
+    },
+    {
+      "title": "Project Three",
+      "description": "Short description of another project. Highlights and role.",
+      "link": "",
+      "linkText": ""
+    }
+  ]
+}
